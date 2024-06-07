@@ -1,3 +1,6 @@
 [submodule "fast_align"]
 	path = fast_align
 	url = https://github.com/clab/fast_align
+[submodule "RDRsegmenter"]
+	path = RDRsegmenter
+	url = https://github.com/datquocnguyen/RDRsegmenter
